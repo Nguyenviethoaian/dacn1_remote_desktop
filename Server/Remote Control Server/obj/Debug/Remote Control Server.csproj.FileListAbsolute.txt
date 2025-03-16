@@ -1,0 +1,6 @@
+D:\DACN1_ha1\Server\Remote Control Server\bin\Debug\Remote_Control_Server.exe
+D:\DACN1_ha1\Server\Remote Control Server\bin\Debug\Remote_Control_Server.pdb
+D:\DACN1_ha1\Server\Remote Control Server\obj\Debug\Remote Control Server.csproj.AssemblyReference.cache
+D:\DACN1_ha1\Server\Remote Control Server\obj\Debug\Remote Control Server.csproj.CoreCompileInputs.cache
+D:\DACN1_ha1\Server\Remote Control Server\obj\Debug\Remote_Control_Server.exe
+D:\DACN1_ha1\Server\Remote Control Server\obj\Debug\Remote_Control_Server.pdb

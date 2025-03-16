@@ -1,0 +1,22 @@
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\Remote_Control_Client.exe
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\Remote_Control_Client.pdb
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\AForge.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\AForge.Video.DirectShow.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\AForge.Video.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\AForge.xml
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\AForge.Video.xml
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\AForge.Video.DirectShow.xml
+D:\DACN1_ha1\Client\Remote Control Client\obj\Debug\Remote Control Client.csproj.AssemblyReference.cache
+D:\DACN1_ha1\Client\Remote Control Client\obj\Debug\Remote Control Client.csproj.CoreCompileInputs.cache
+D:\DACN1_ha1\Client\Remote Control Client\obj\Debug\Remote C.C82B392C.Up2Date
+D:\DACN1_ha1\Client\Remote Control Client\obj\Debug\Remote_Control_Client.exe
+D:\DACN1_ha1\Client\Remote Control Client\obj\Debug\Remote_Control_Client.pdb
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\Remote_Control_Client.exe.config
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\EntityFramework.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\System.Data.SQLite.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\EntityFramework.xml
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\DACN1_ha1\Client\Remote Control Client\bin\Debug\System.Data.SQLite.xml
