@@ -51,7 +51,7 @@ namespace Remote_Control_Server
             StopHistoryThread();
             isCameraActive = true;
             server.RequestCameraStream(); 
-            //StopCameraThread(); // Đảm bảo dừng luồng camera trước khi khởi động mới
+            //StopCameraThread(); 
             //cameraThread = new Thread(new ThreadStart(ViewClientCamera));
             //cameraThread.Start();
             await Task.Run(() => ViewClientCamera());

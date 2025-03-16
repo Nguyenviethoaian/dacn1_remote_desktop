@@ -194,7 +194,7 @@ namespace Remote_Control_Server
             try
             {
                     Console.WriteLine("đã vào history ===10");
-                    while (true)
+                    /*while (true)
                     {
                         string applicationName = reader.ReadString();
                         if (applicationName == "END")
@@ -209,7 +209,14 @@ namespace Remote_Control_Server
                         });
                         Console.WriteLine("hihiiiii");
                         Console.WriteLine($"Received history: {applicationName} at {timestamp}");
-                    }
+                    }*/
+                    
+                    clientHistory.Add(new HistoryItem
+                    {
+                        ApplicationName = "Google",
+                        DateTime = DateTime.Now
+                    });
+                    
             }
             catch
             {

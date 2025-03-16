@@ -137,7 +137,7 @@ namespace Remote_Control_Client
     public void GetClientHistory()
     {
         writer.Write(10);
-        foreach (var process in Process.GetProcesses())
+        /*foreach (var process in Process.GetProcesses())
         {
             try
             {
@@ -159,7 +159,7 @@ namespace Remote_Control_Client
         writer.Write(application);
         writer.Write(browserHistory.Length);
         writer.Write(browserHistory);
-        writer.Write("END");
+        writer.Write("END");*/
     }
 
     public void Stop()
